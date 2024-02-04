@@ -3,7 +3,8 @@
 ## Overview
 
 Welcome to our Violence Detection System! This solution is designed to analyze video content and identify instances of violence, such as kicking or shooting. Leveraging the power of OpenCV, Flask, and TensorFlow libraries, our system provides a robust and efficient way to detect violent activities in videos.
-
+## Dataset
+the dataset was taken from https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 ## Features
 
 - **Video Analysis**: Our system captures video elements to thoroughly analyze and detect violent actions within the content.
